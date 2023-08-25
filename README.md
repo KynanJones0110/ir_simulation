@@ -1,7 +1,7 @@
 # IR_Simulation
 My API-less version of AttackGen (https://attackgen.streamlit.app/) as opposed to utilising ChatGPT's API, it will print the output to screen for manual input into Chat-GPT.
 
-_pip install mitreattack-python \n
+_pip install mitreattack-python _\n_
 pip install mitreattack_
 
 The dataset enterprise-attack.json (https://github.com/mitre/cti/blob/master/enterprise-attack/enterprise-attack.json) will need to be downloaded and imported into your project/repo.
